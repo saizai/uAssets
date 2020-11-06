@@ -161,7 +161,10 @@ Megaphone as 3rd-party
 		_ assets.megaphone.fm script
 		_ dcs.megaphone.fm media
 		_ player.megaphone.fm xhr
-		_ playlist.megaphone.fm script frame css image
+		_ playlist.megaphone.fm script
+		_ playlist.megaphone.fm frame
+		_ playlist.megaphone.fm css
+		_ playlist.megaphone.fm image
 		_ megaphone.imgix.net image
 		_ dcs.megaphone.fm media
 		! dcs.megaphone.fm is the actual mp3 server, but there are several redirects first
